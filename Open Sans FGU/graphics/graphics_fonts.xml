@@ -7,37 +7,37 @@
 <!-- Formatted text fields -->
 	<!-- Formatted text field header default size 20-->
 	<font name="reference-h">
-		<ttf file="graphics/fonts/Montserrat-SemiBold.ttf" name="Montserrat SemiBold" size="22" />
+		<ttf file="graphics/fonts/OpenSans-Bold.ttf" name="Open Sans Bold" size="22" />
 		<color value="660000" />
 	</font>
 	
 	<!-- Formatted text field regular text default size 14-->	
 	<font name="reference-r">
-		<ttf file="graphics/fonts/Montserrat-Regular.ttf" name="Montserrat Regular" size="18" />
+		<ttf file="graphics/fonts/OpenSans-Regular.ttf" name="Open Sans Regular" size="18" />
 		<color value="#000000" />
 	</font>
 	
 	<!-- Formatted text field italic text default size 14-->
 	<font name="reference-i">
-		<ttf file="graphics/fonts/Montserrat-Italic.ttf" name="Montserrat Italic" size="18" />
+		<ttf file="graphics/fonts/OpenSans-Italic.ttf" name="Open Sans Italic" size="18" />
 		<color value="#000000" />
 	</font>
 	
 	<!-- Formatted text field bold text default size 14-->
 	<font name="reference-b">
-		<ttf file="graphics/fonts/Montserrat-SemiBold.ttf" name="Montserrat SemiBold" size="18" />
+		<ttf file="graphics/fonts/OpenSans-Bold.ttf" name="Open Sans Bold" size="18" />
 		<color value="#000000" />
 	</font>
 
 	<!-- Formatted text field bold and italic text default size 14-->
 	<font name="reference-bi">
-		<ttf file="graphics/fonts/Montserrat-BoldItalic.ttf" name="Montserrat Bold Italic" size="18" />
+		<ttf file="graphics/fonts/OpenSans-BoldItalic.ttf" name="Open Sans Bold Italic" size="18" />
 		<color value="#000000" />
 	</font>
 
 	<!-- For reference manual title of entry to right.  visible as entry title when an entry is selected along the left panel. default size 16-->
 	<font name="reference-b-large">
-		<ttf file="graphics/fonts/Montserrat-SemiBold.ttf" name="Montserrat SemiBold" size="19" />
+		<ttf file="graphics/fonts/OpenSans-Bold.ttf" name="Open Sans Bold" size="19" />
 		<color value="#3B2C21" />
 	</font>
 	
@@ -45,37 +45,37 @@
 
 	<!-- Font for normal chat and for language dropdown default size 14-->
 	<font name="chatfont">
-		<ttf file="graphics/fonts/Montserrat-Regular.ttf" name="Montserrat Regular" size="16" />
+		<ttf file="graphics/fonts/OpenSans-Regular.ttf" name="Open Sans Regular" size="16" />
 		<color value="#261A10" />
 	</font>
 	
 	<!-- Font for chat emotes. hold down shift+ctrl for emotes default size 14-->
 	<font name="emotefont">
-		<ttf file="graphics/fonts/Montserrat-SemiBold.ttf" name="Montserrat SemiBold" size="17" />
+		<ttf file="graphics/fonts/OpenSans-Bold.ttf" name="Open Sans Bold" size="17" />
 		<color value="#880000" />
 	</font>
 
 	<!-- Font for chat story entries.  hold down ctrl or output from a chat frame with no speaker.  This also sets the font for the currently selected language in the language dropdown box. default size 14-->
 	<font name="narratorfont">
-		<ttf file="graphics/fonts/Montserrat-SemiBold.ttf" name="Montserrat SemiBold" size="17" />
+		<ttf file="graphics/fonts/OpenSans-Bold.ttf" name="Open Sans Bold" size="17" />
 		<color value="#261A10" />
 	</font>
 
 	<!-- Font for system messages like "Understood by", damage rolls,attack rolls, dice rolls default size 14-->
 	<font name="systemfont">
-		<ttf file="graphics/fonts/Montserrat-Regular.ttf" name="Montserrat Regular" size="17" />
+		<ttf file="graphics/fonts/OpenSans-Regular.ttf" name="Open Sans Regular" size="17" />
 		<color value="#660066" />
 	</font>
 
 	<!-- Font for messages like "Attack [] -> at Werewolf, Damage strings, saving throws, awarding xp default size 14-->
 	<font name="msgfont">
-		<ttf file="graphics/fonts/Montserrat-SemiBold.ttf" name="Montserrat SemiBold" size="17" />
+		<ttf file="graphics/fonts/OpenSans-Bold.ttf" name="Open Sans Bold" size="17" />
 		<color value="#660066" />
 	</font>
 
 	<!-- Font for Out of Character messages default size 14-->
 	<font name="oocfont">
-		<ttf file="graphics/fonts/Montserrat-Regular.ttf" name="Montserrat Regular" size="17" />
+		<ttf file="graphics/fonts/OpenSans-Regular.ttf" name="Open Sans Regular" size="17" />
 		<color value="#005500" />
 	</font>
 
@@ -83,19 +83,19 @@
 
 	<!-- Font used for messages when speaking as an NPC, used for both the title and the text, for example "Acolyte: Hello, I am an acolyte" default size 14-->
 	<font name="chatnpcfont">
-		<ttf file="graphics/fonts/Montserrat-SemiBold.ttf" name="Montserrat SemiBold" size="17" />
+		<ttf file="graphics/fonts/OpenSans-Bold.ttf" name="Open Sans Bold" size="17" />
 		<color value="#000066" />
 	</font>
 
 	<!-- Font used for messages when speaking as GM, used for both the title and the text, for example "GM: hello my name is the almighty GM..." default size 14-->
 	<font name="chatgmfont">
-		<ttf file="graphics/fonts/Montserrat-SemiBold.ttf" name="Montserrat SemiBold" size="17" />
+		<ttf file="graphics/fonts/OpenSans-Bold.ttf" name="Open Sans Bold" size="17" />
 		<color value="#000000" />
 	</font>
 
 	<!-- Font used for whisper messages default size 14 -->
 	<font name="whisperfont">
-		<ttf file="graphics/fonts/Montserrat-SemiBold.ttf" name="Montserrat SemiBold" size="17" />
+		<ttf file="graphics/fonts/OpenSans-Bold.ttf" name="Open Sans Bold" size="17" />
 		<color value="#660066" />
 	</font>
 </root>
