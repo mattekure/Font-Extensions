@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <root version="3.0">
   <properties>
-    <name>Font - Montserrat</name>
+    <name>Font - Lato</name>
     <version>1.1</version>
 	<loadorder>99</loadorder>
-    <author>Mattekure</author>
-    <description>Montserrat Font Extension</description>
+    <author>mattekure</author>
+    <description>Lato Font Extension</description>
   </properties>
-  <announcement text="Montserrat Font Extension v1.1" icon="Montserrat" font="chatfont" />
+  <announcement text="Lato Font Extension 1.1" font="chatfont" />
   <base>
     <includefile source="graphics/graphics_fonts.xml" />
   </base>
