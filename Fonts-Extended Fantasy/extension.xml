@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.0">
+  <properties>
+    <name>Fonts - Extended Languages</name>
+    <version>3</version>
+    <author>mattekure</author>
+    <description>Additional fonts for languages in chat</description>
+  </properties>
+  <base>
+    <font name="AncientThorass">
+      <ttf file="fonts/AncientThorass.ttf" name="Ancient Thorass" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="Angerthas">
+      <ttf file="fonts/Angerthas.ttf" name="Angerthas" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="AngerthasMoria">
+      <ttf file="fonts/AngerthasMoria.ttf" name="Angerthas Moria" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="Aqua">
+      <ttf file="fonts/Aqua.ttf" name="DS_Aqua-1" size="30" />
+      <color value="#000000" />
+    </font>
+    <font name="BethLuisFearn">
+      <ttf file="fonts/Beth-Luis-Fearn.ttf" name="Beth-Luis-Fearn" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="Cirnaja">
+      <ttf file="fonts/Cirnaja.ttf" name="Cirnaja Calligraphy" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="DeadSpace">
+      <ttf file="fonts/DeadSpace.ttf" name="DeadSpace" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="Dethek">
+      <ttf file="fonts/Dethek.ttf" name="Dethek" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="DethekStone">
+      <ttf file="fonts/DethekStone.ttf" name="Dethek Stone" size="28" />
+      <color value="#000000" />
+    </font>
+    <font name="Edhiron">
+      <ttf file="fonts/Edhiron.ttf" name="Edhiron Asdhúriel v. 1.2" size="30" />
+      <color value="#000000" />
+    </font>
+    <font name="Espruar">
+      <ttf file="fonts/Espruar.ttf" name="Espruar" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="Greek">
+      <ttf file="fonts/Greek.ttf" name="Greek Old Face" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="Hetarosia">
+      <ttf file="fonts/Hetarosia.ttf" name="hetarosia" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="HyrrokkinRunic">
+      <ttf file="fonts/HyrrokkinRunic.ttf" name="Hyrrokkin Runic" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="Khazuldum">
+      <ttf file="fonts/Khazuldum.ttf" name="DS_Kha'zuldum" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="KhuzdulErebor">
+      <ttf file="fonts/KhuzdulErebor.ttf" name="KhuzdulErebor" size="20" />
+      <color value="#000000" />
+    </font>
+    <font name="Nasilnese">
+      <ttf file="fonts/Nasilnese.ttf" name="DS_Nasilnese" size="36" />
+      <color value="#000000" />
+    </font>
+    <font name="NorseCode">
+      <ttf file="fonts/NorseCode.ttf" name="Norse Code" size="30" />
+      <color value="#000000" />
+    </font>
+    <font name="OldeEspruar">
+      <ttf file="fonts/OldeEspruar.otf" name="Olde Espruar" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="ScrapbookChinese">
+      <ttf file="fonts/ScrapbookChinese.ttf" name="Scrapbook Chinese" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="Sequoyah">
+      <ttf file="fonts/Sequoyah.ttf" name="Sequoyah" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="Siddiqua">
+      <ttf file="fonts/Siddiqua.ttf" name="Siddiqua" size="28" />
+      <color value="#000000" />
+    </font>
+    <font name="Sinenya">
+      <ttf file="fonts/Sinenya.ttf" name="DS_Sinenya" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="Tengwar3">
+      <ttf file="fonts/Tengwar3.ttf" name="Tengwar 03" size="24" />
+      <color value="#000000" />
+    </font>
+     <font name="Tengwar5">
+      <ttf file="fonts/Tengwar5.ttf" name="Tengwar 05" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="TengwarAnnatar">
+      <ttf file="fonts/TengwarAnnatar.ttf" name="Tengwar Annatar" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="TheNileSong">
+      <ttf file="fonts/TheNileSong.ttf" name="The Nile Song" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="Thorass">
+      <ttf file="fonts/Thorass.ttf" name="Thorass" size="24" />
+      <color value="#000000" />
+    </font>
+    <font name="Valmaric">
+      <ttf file="fonts/Valmaric.ttf" name="Valmaric Eldamar" size="24" />
+      <color value="#000000" />
+    </font>
+    <script name="ExtendedFantasyFonts" file="scripts/ExtendedFantasyFonts.lua" />
+  </base>
+</root>
