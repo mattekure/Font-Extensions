@@ -3,42 +3,9 @@
 <root version="2.9">
 	<properties>
 		<name>Fonts - Sign Language</name>
-		<version>1.2</version>
+		<version>1.3</version>
 		<author>Mattekure</author>
-		<description>Sign Language fonts</description>
-		<ruleset>
-			<name>2E</name>
-		</ruleset>
-		<ruleset>
-			<name>3.5E</name>
-		</ruleset>
-		<ruleset>
-			<name>PFRPG</name>
-		</ruleset>		
-		<ruleset>
-			<name>SFRPG</name>
-		</ruleset>		
-		<ruleset>
-			<name>PFRPG2</name>
-		</ruleset>		
-		<ruleset>
-			<name>4E</name>
-		</ruleset>
-		<ruleset>
-			<name>5E</name>
-		</ruleset>		
-		<ruleset>
-			<name>Castles and Crusades</name>
-		</ruleset>		
-		<ruleset>
-			<name>CallOfCthulhu7E</name>
-		</ruleset>
-		<ruleset>
-			<name>CoreRPG</name>
-		</ruleset>	
-		<ruleset>
-			<name>SavageWorlds</name>
-		</ruleset>		
+		<description>Sign Language fonts</description>		
 	</properties>
 	
 	<announcement text="Sign Language Fonts" font="emotefont" icon=""/>  	
