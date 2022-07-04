@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<root version="2.9">
+	<properties>
+		<name>Fonts - Sign Language</name>
+		<version>1.3</version>
+		<author>Mattekure</author>
+		<description>Sign Language fonts</description>		
+	</properties>
+	
+	<announcement text="Sign Language Fonts" font="emotefont" icon=""/>  	
+
+	<base>
+		<script name="Languages_Extension" file="scripts/languages_extension.lua" /> 
+<!-- Free fonts from https://www.fontspace.com/category/sign%20language -->
+		<font name="Gallaudet">
+			<ttf file="TTF Fonts/GALLAUDET.ttf" name="Gallaudet" size="48" />
+			<color value="#000000" />
+		</font>
+		<font name="Handtalk">
+			<ttf file="TTF Fonts/handtalk.ttf" name="Handtalk" size="36" />
+			<color value="#000000" />
+		</font>
+		<font name="HandSign">
+			<ttf file="TTF Fonts/HANDSIGN.ttf" name="HandSign" size="36" />
+			<color value="#000000" />
+		</font>
+
+		
+	</base>
+
+</root>
