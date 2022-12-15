@@ -1,6 +1,4 @@
-# Font-Extensions
-Font extensions for Fantasy Grounds.  
-
+# Font Extensions for Fantasy Grounds
 
 ## Interface Fonts
 These fonts change the look of various text elements in the interface.  These 4 popular fonts were selected from the Google Fonts archive and are freely licensed.
