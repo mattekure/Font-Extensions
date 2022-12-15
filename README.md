@@ -4,8 +4,11 @@
 These fonts change the look of various text elements in the interface.  These 4 popular fonts were selected from the Google Fonts archive and are freely licensed.
 
 **Font-Lato** - https://fonts.google.com/specimen/Lato
+
 **Font-Montserrat** - https://fonts.google.com/specimen/Montserrat
+
 **Font-Open-Sans** - https://fonts.google.com/specimen/Open+Sans
+
 **Font-Roboto** - https://fonts.google.com/specimen/Roboto
 
 
